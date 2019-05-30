@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-no-name-128x130.png",
     "noImageResize": "",
     "google-analytics": "",
     "uniqCompNum": 4,
